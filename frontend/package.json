@@ -1,0 +1,21 @@
+{
+  "name": "actividad_2_frontii",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "proxy": "http://localhost:3000"
+  },
+  "author": "Esteban Elí Gómez González - Zeuddy Segovia",
+  "license": "ISC",
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^5.4.10"
+  }
+}
